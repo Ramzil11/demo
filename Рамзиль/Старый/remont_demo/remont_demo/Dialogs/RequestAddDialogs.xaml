@@ -1,0 +1,39 @@
+﻿<Window x:Class="remont_demo.Dialogs.RequestAddDialogs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:remont_demo.Dialogs"
+        mc:Ignorable="d"
+        Title="Окно добавления заявки" Height="400" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1">
+            <StackPanel>
+                <Label Content="Тип неисправности"/>
+                <ComboBox Height="30" x:Name="typeFayltComboBox"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Название оборудования"/>
+                <TextBox Height="30" x:Name="equipmentTextBox"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Описание"/>
+                <TextBox Height="60" x:Name="descriptionTextBox" AcceptsReturn="True"/>
+            </StackPanel>
+            <StackPanel >
+                <Label Content="Клиент"/>
+                <ComboBox Height="30" x:Name="clientsComboBox"/>
+            </StackPanel>
+            <TextBlock  Height="30" HorizontalAlignment="Center" x:Name="selectButton">
+            <Hyperlink  x:Name="addClientButton" Click="addClient_Click" >Добавить клиента</Hyperlink>
+            </TextBlock>
+            <Button Height="30" Content="Добавить заявку" x:Name="buttonAddRequest" Click="buttonAddRequest_Click"/>
+            <Button Margin="0,10,0,0" Height="30" Content="Назад" x:Name="exitButton" Click="exitButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="remont_demo.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:remont_demo"
+        mc:Ignorable="d"
+        Title="Окно авторизации" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition MaxWidth="400"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1" Height="60" Margin="0,0,0,120">
+            <Label Content="Логин"/>
+            <TextBox x:Name="loginTexBox" Height="30"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Height="80" Margin="0,0,0,0">
+            <Label Content="Пароль"/>
+            <Grid>
+                <TextBox Name="pwdTextBox" Height="30" Visibility="Hidden"/>
+                <PasswordBox Name="pwdPasswordBox" Height="30" />
+            </Grid>
+            <CheckBox Name="checkBoxPwd" Content="Показать пароль" Click="CheckBox_Click" Margin="0,5,0,0"/>
+        </StackPanel>
+        <Button Grid.Column="1" Height="30" Margin="0,120,0,0" Content="Войти" Click="Button_Click"/>
+    </Grid>
+</Window>

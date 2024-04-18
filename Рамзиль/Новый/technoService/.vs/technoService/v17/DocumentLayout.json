@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrag\\source\\repos\\technoService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\pages\\requestsviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\pages\\requestsviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\pages\\editingrequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\pages\\editingrequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\homewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\homewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\requestadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\requestadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\qrcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\qrcodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\clientadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\clientadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\clientadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\clientadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\requestadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\requestadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\qrcodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\qrcodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\windows\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\windows\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\typefaulttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\typefaulttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\statustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\statustable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\staffstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\staffstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\servicestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\servicestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\rolestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\rolestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\requeststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\requeststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\remontv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\remontv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\performerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\performerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\model\\clientstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\model\\clientstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|c:\\users\\ibrag\\source\\repos\\technoservice\\technoservice\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128A6C7A-DEBE-4179-AE27-9BEF956C9F45}|technoService\\technoService.csproj|solutionrelative:technoservice\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestsViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\Pages\\RequestsViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\Windows\\Pages\\RequestsViewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\Pages\\RequestsViewPage.xaml.cs",
+              "RelativeToolTip": "technoService\\Windows\\Pages\\RequestsViewPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:45:23.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditingRequestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\Pages\\EditingRequestPage.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\Windows\\Pages\\EditingRequestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\Pages\\EditingRequestPage.xaml.cs",
+              "RelativeToolTip": "technoService\\Windows\\Pages\\EditingRequestPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:44:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestAddDialogs.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\RequestAddDialogs.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\Windows\\RequestAddDialogs.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\RequestAddDialogs.xaml.cs",
+              "RelativeToolTip": "technoService\\Windows\\RequestAddDialogs.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:41:39.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientAddDialogs.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\ClientAddDialogs.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\Windows\\ClientAddDialogs.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\ClientAddDialogs.xaml.cs",
+              "RelativeToolTip": "technoService\\Windows\\ClientAddDialogs.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:41:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\HomeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\Windows\\HomeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\HomeWindow.xaml.cs",
+              "RelativeToolTip": "technoService\\Windows\\HomeWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:40:56.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QRCodeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\QRCodeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\Windows\\QRCodeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\QRCodeWindow.xaml.cs",
+              "RelativeToolTip": "technoService\\Windows\\QRCodeWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:40:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientAddDialogs.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\ClientAddDialogs.xaml",
+              "RelativeDocumentMoniker": "technoService\\Windows\\ClientAddDialogs.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\ClientAddDialogs.xaml",
+              "RelativeToolTip": "technoService\\Windows\\ClientAddDialogs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T01:40:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\HomeWindow.xaml",
+              "RelativeDocumentMoniker": "technoService\\Windows\\HomeWindow.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\HomeWindow.xaml",
+              "RelativeToolTip": "technoService\\Windows\\HomeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T01:40:07.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestAddDialogs.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\RequestAddDialogs.xaml",
+              "RelativeDocumentMoniker": "technoService\\Windows\\RequestAddDialogs.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\RequestAddDialogs.xaml",
+              "RelativeToolTip": "technoService\\Windows\\RequestAddDialogs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T01:40:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\Windows\\AuthWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "technoService\\Windows\\AuthWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:35:35.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QRCodeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\QRCodeWindow.xaml",
+              "RelativeDocumentMoniker": "technoService\\Windows\\QRCodeWindow.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\QRCodeWindow.xaml",
+              "RelativeToolTip": "technoService\\Windows\\QRCodeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T01:40:11.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\App.xaml.cs",
+              "RelativeDocumentMoniker": "technoService\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\App.xaml.cs",
+              "RelativeToolTip": "technoService\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:34:51.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TypeFaultTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\TypeFaultTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\TypeFaultTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\TypeFaultTable.cs",
+              "RelativeToolTip": "technoService\\Model\\TypeFaultTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:39:14.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatusTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\StatusTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\StatusTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\StatusTable.cs",
+              "RelativeToolTip": "technoService\\Model\\StatusTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:39:11.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StaffsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\StaffsTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\StaffsTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\StaffsTable.cs",
+              "RelativeToolTip": "technoService\\Model\\StaffsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:39:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicesTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\ServicesTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\ServicesTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\ServicesTable.cs",
+              "RelativeToolTip": "technoService\\Model\\ServicesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:39:03.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RolesTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\RolesTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\RolesTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\RolesTable.cs",
+              "RelativeToolTip": "technoService\\Model\\RolesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:39:00.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RequestsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\RequestsTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\RequestsTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\RequestsTable.cs",
+              "RelativeToolTip": "technoService\\Model\\RequestsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:38:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Remontv2Context.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\Remontv2Context.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\Remontv2Context.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\Remontv2Context.cs",
+              "RelativeToolTip": "technoService\\Model\\Remontv2Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:36:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PerformersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\PerformersTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\PerformersTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\PerformersTable.cs",
+              "RelativeToolTip": "technoService\\Model\\PerformersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:36:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "technoService\\Windows\\AuthWindow.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Windows\\AuthWindow.xaml",
+              "RelativeToolTip": "technoService\\Windows\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T01:35:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\Global.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\Global.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\Global.cs",
+              "RelativeToolTip": "technoService\\Model\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:36:45.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\ClientsTable.cs",
+              "RelativeDocumentMoniker": "technoService\\Model\\ClientsTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\Model\\ClientsTable.cs",
+              "RelativeToolTip": "technoService\\Model\\ClientsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:36:35.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\App.xaml",
+              "RelativeDocumentMoniker": "technoService\\App.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\App.xaml",
+              "RelativeToolTip": "technoService\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T01:34:29.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "technoService\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\technoService\\technoService\\AssemblyInfo.cs",
+              "RelativeToolTip": "technoService\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:34:26.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿<Window x:Class="remont_demo.Dialogs.EditRequestDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:remont_demo.Dialogs"
+        mc:Ignorable="d"
+        Title="EditRequestDialog" Height="420" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1">
+            <StackPanel>
+                <Label Content="Статус заказа"/>
+                <ComboBox Height="30" x:Name="statusComboBox"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Приоритет"/>
+                <ComboBox Height="30" x:Name="PriorityComboBox"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Нажмите для просмотра исполнителей:"/>
+                <ComboBox Text="Нажмите чтобы посмотерть:" Height="30" x:Name="stuffComboBox" SelectedValuePath="StaffName">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <CheckBox Margin="5" IsChecked="{Binding IsSelectd}"/>
+                                <TextBlock Margin="5" Text="{Binding StuffName}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Описание"/>
+                <TextBox Height="60" x:Name="descriptionTextBox"/>
+            </StackPanel>
+            <Button Margin="0,50,0,0" Height="30" Content="Изменить" x:Name="saveButtonRequest" Click="saveButtonRequest_Click"/>
+            <Button Margin="0,10,0,0" Height="30" Content="Назад" x:Name="exitButton" Click="exitButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

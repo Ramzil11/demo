@@ -1,0 +1,32 @@
+﻿<Window x:Class="technoServise.Dialogs.ClientAddDialogs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:technoServise.Dialogs"
+        mc:Ignorable="d"
+        Title="ClientAddDialogs" Height="340" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1">
+            <StackPanel>
+                <Label Content="Имя"/>
+                <TextBox Height="30" x:Name="nameTextBox"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Фамилия"/>
+                <TextBox Height="30" x:Name="surnameTextBox"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Номер телефона"/>
+                <TextBox Height="30" x:Name="phoneTextBox"/>
+            </StackPanel>
+            <Button Margin="0,50,0,0" Height="30" Content="Добавить клиента" x:Name="addClientButton" Click="addClientButton_Click"/>
+            <Button Margin="0,10,0,0" Height="30" Content="Назад" x:Name="exitButton" Click="exitButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

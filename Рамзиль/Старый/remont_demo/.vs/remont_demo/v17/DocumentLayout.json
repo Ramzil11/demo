@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\dialogs\\requestadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\dialogs\\requestadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\dialogs\\requestadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\dialogs\\requestadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\dialogs\\editrequestdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\dialogs\\editrequestdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\dialogs\\editrequestdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\dialogs\\editrequestdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\pages\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\pages\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\dialogs\\clientadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\dialogs\\clientadddialogs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\pages\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\pages\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\pages\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\pages\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\pages\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\pages\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\dialogs\\clientadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\dialogs\\clientadddialogs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\model\\clientstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\model\\clientstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\model\\bindingvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\model\\bindingvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\model\\performerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\model\\performerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\model\\staffstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\model\\staffstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\model\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\model\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|c:\\users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\model\\remontv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C02A03-6A68-4E41-8E09-BE8321F8EA68}|remont_demo\\remont_demo.csproj|solutionrelative:remont_demo\\model\\remontv2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Pages\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\Authorization.xaml.cs",
+              "RelativeToolTip": "remont_demo\\Pages\\Authorization.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:03:11.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\RequestWindow.xaml",
+              "RelativeDocumentMoniker": "remont_demo\\Pages\\RequestWindow.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\RequestWindow.xaml",
+              "RelativeToolTip": "remont_demo\\Pages\\RequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T21:53:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestAddDialogs.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\RequestAddDialogs.xaml",
+              "RelativeDocumentMoniker": "remont_demo\\Dialogs\\RequestAddDialogs.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\RequestAddDialogs.xaml",
+              "RelativeToolTip": "remont_demo\\Dialogs\\RequestAddDialogs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T03:17:28.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditRequestDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\EditRequestDialog.xaml",
+              "RelativeDocumentMoniker": "remont_demo\\Dialogs\\EditRequestDialog.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\EditRequestDialog.xaml",
+              "RelativeToolTip": "remont_demo\\Dialogs\\EditRequestDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T09:57:33.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientAddDialogs.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\ClientAddDialogs.xaml",
+              "RelativeDocumentMoniker": "remont_demo\\Dialogs\\ClientAddDialogs.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\ClientAddDialogs.xaml",
+              "RelativeToolTip": "remont_demo\\Dialogs\\ClientAddDialogs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T08:29:24.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditRequestDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\EditRequestDialog.xaml.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Dialogs\\EditRequestDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\EditRequestDialog.xaml.cs",
+              "RelativeToolTip": "remont_demo\\Dialogs\\EditRequestDialog.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:58:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestAddDialogs.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\RequestAddDialogs.xaml.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Dialogs\\RequestAddDialogs.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\RequestAddDialogs.xaml.cs",
+              "RelativeToolTip": "remont_demo\\Dialogs\\RequestAddDialogs.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAawDIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:23:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\RequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Pages\\RequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\RequestWindow.xaml.cs",
+              "RelativeToolTip": "remont_demo\\Pages\\RequestWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAawE8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:09:05.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\Authorization.xaml",
+              "RelativeDocumentMoniker": "remont_demo\\Pages\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Pages\\Authorization.xaml",
+              "RelativeToolTip": "remont_demo\\Pages\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T21:03:15.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "remont_demo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\App.xaml.cs",
+              "RelativeToolTip": "remont_demo\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:00:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "remont_demo\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\AssemblyInfo.cs",
+              "RelativeToolTip": "remont_demo\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:00:50.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\App.xaml",
+              "RelativeDocumentMoniker": "remont_demo\\App.xaml",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\App.xaml",
+              "RelativeToolTip": "remont_demo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T21:00:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientAddDialogs.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\ClientAddDialogs.xaml.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Dialogs\\ClientAddDialogs.xaml.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Dialogs\\ClientAddDialogs.xaml.cs",
+              "RelativeToolTip": "remont_demo\\Dialogs\\ClientAddDialogs.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:31:15.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StaffsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\StaffsTable.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Model\\StaffsTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\StaffsTable.cs",
+              "RelativeToolTip": "remont_demo\\Model\\StaffsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:20:01.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PerformersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\PerformersTable.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Model\\PerformersTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\PerformersTable.cs",
+              "RelativeToolTip": "remont_demo\\Model\\PerformersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:15:12.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Remontv2Context.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\Remontv2Context.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Model\\Remontv2Context.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\Remontv2Context.cs",
+              "RelativeToolTip": "remont_demo\\Model\\Remontv2Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwCIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:32:24.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\Global.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Model\\Global.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\Global.cs",
+              "RelativeToolTip": "remont_demo\\Model\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:19:06.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\ClientsTable.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Model\\ClientsTable.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\ClientsTable.cs",
+              "RelativeToolTip": "remont_demo\\Model\\ClientsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:47:01.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BindingVariables.cs",
+              "DocumentMoniker": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\BindingVariables.cs",
+              "RelativeDocumentMoniker": "remont_demo\\Model\\BindingVariables.cs",
+              "ToolTip": "C:\\Users\\ibrag\\source\\repos\\remont_demo\\remont_demo\\Model\\BindingVariables.cs",
+              "RelativeToolTip": "remont_demo\\Model\\BindingVariables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:14:20.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
